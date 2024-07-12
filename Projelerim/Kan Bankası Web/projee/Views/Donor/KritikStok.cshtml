@@ -1,0 +1,30 @@
+﻿@using projee.Models
+@model List<KanStogu>
+@{
+    ViewBag.Title = "KritikStok";
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th style="background-color:lightgrey;">Kan Grubu</th>
+        <th style="background-color:lightgrey;">Stok</th>
+    </tr> 
+    @foreach (var Kan in Model)
+    {
+        if (Kan.kanStok < 100)
+        {
+            <tr >
+                <td>@Kan.kanGrup</td>@*Sütündaki veriyi tablo verisi*@
+                <td>@Kan.kanStok</td>
+            </tr>
+        }
+        if (Kan.kanStok == 100)
+        {
+            <tr >
+                <td>@Kan.kanGrup</td>
+                <td>@Kan.kanStok</td>
+            </tr>
+        }
+    }
+</table>
+

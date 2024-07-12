@@ -1,0 +1,33 @@
+﻿@using projee.Models
+@model List<Transfer>
+@{
+    ViewBag.Title = "Stok";
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th style="background-color:lightgrey;">Kan Grubu</th>
+        <th style="background-color:lightgrey;">Transfer</th>
+    </tr> 
+    @foreach (var transfer in Model)
+    {
+        if (transfer.kanStok < 100)
+        {
+            <tr >
+                <td>@transfer.kanGrup</td>
+                @*Sütündaki veriyi tablo verisi*@
+                <td>@transfer.kanStok</td>
+            </tr>
+        }
+        if (transfer.kanStok == 100)
+        {
+            <tr >
+                <td>@transfer.kanGrup</td>
+                <td>@transfer.kanStok</td>
+            </tr>
+        }
+    }
+</table>
+
+
+

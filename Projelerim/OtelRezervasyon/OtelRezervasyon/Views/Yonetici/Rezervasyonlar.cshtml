@@ -1,0 +1,44 @@
+﻿@using OtelRezervasyon.Models.Entity
+@model List<TblRezervasyon>
+@{
+    ViewBag.Title = "Rezervasyonlar";
+    Layout = "~/Views/Shared/_YoneticiLayout.cshtml";
+}
+<br />
+<h2>Rezervasyonlar</h2>
+<br />
+<table class="table table-bordered">
+    <tr>
+        <th>Misafir Ad Soyad</th>
+        <th>Giriş Tarihi</th>
+        <th>Çıkış Tarihi</th>
+        <th>Telefon</th>
+        <th>Açklama</th>
+        <th>Kişi</th>
+        <th>Oda No</th>
+        <th>Detay</th>
+        <th>Sil</th>
+
+
+    </tr>
+    @foreach (var x in Model)
+     {
+        <tr>
+
+            <td>@x.RezervasyonAdSoyad</td>
+            <td>@(((DateTime)x.GirisTarih).ToString("dd-MMM-yyyy"))</td>
+            <td>@(((DateTime)x.CikisTarih).ToString("dd-MMM-yyyy"))</td>
+            <td>@x.Telefon</td>
+            <td>@x.Aciklama</td>
+            <td>@x.Kisi</td>
+            <td>@x.TblOda.OdaNo</td>
+            @*oda dolusa gelicek değilse bş gelicek*@
+            <td><a href="/Yonetici/RezervasyonDetay/@x.RezervasyonID" class="btn btn-info">Detaylar</a></td>
+            <td><a href="/Yonetici/Sil/@x.RezervasyonID" class="btn btn-danger">Sil</a></td>
+
+
+        </tr>
+     }
+</table>
+
+

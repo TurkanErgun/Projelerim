@@ -1,0 +1,18 @@
+Türkan Ergün
+şifre=12345
+
+admin olarak devam et
+şifre=1234
+
+
+BUNIFU Framework
+eposta=ergunturkan60@gmail.com
+anahtar=35c913dc7076afe4450a9587cf68203f
+şifre=turkan123
+bitiş süresi= 29 Ocak 2024
+
+
+Guna.UI2 WinForms
+eposta=ergunturkan60@gmail.com
+anahtar=054B5418030103524C56571A0A01
+bitiş süresi 28 Ocak 2024

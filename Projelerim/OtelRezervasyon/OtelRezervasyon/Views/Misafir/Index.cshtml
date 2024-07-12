@@ -1,0 +1,30 @@
+﻿@model OtelRezervasyon.Models.Entity.TblMisafir
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MisafirLayout.cshtml";
+}
+<br />
+<h2>Profil Sayfası</h2>
+
+@using (Html.BeginForm("MisafirBilgiGuncelle", "Misafir", FormMethod.Post))
+ {
+<div class="form-group">
+    @Html.HiddenFor(x => x.MisafirID, new { @class = "form-control" })@*hiddenfor ıd gizliyor*@
+    <br />
+    <label>Ad Soyad</label>
+    @Html.TextBoxFor(x => x.AdSoyad, new { @class = "form-control" })
+    <br />
+    @Html.Label("Telefon")
+    @Html.TextBoxFor(x => x.Telefon, new { @class = "form-control" })
+    <br />
+    @Html.Label("Email")
+    @Html.TextBoxFor(x => x.Email, new { @class = "form-control" })
+    <br />
+    @Html.Label("Şifre")
+    @Html.TextBoxFor(x => x.Sifre, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-warning">Bilgileri Güncelle</button>
+
+</div>
+ }

@@ -1,0 +1,40 @@
+﻿@using projee.Models
+@model Satis
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<form method="post" action="/Satis/YeniSatis">
+    <div class="modal-body">
+        <div>
+            <label>Kullanıcı ID</label>
+            @Html.TextBoxFor(m => m.kullaniciID, new { @class = "form-control" })
+        </div>
+        <br />
+        <div>
+            <label>Ürün ID</label>
+            @Html.TextBoxFor(m => m.urunID, new { @class = "form-control" })
+        </div>
+        <br />
+        <label>Adet</label>
+        @Html.TextBoxFor(m => m.adet, new { @class = "form-control" })
+        <br />
+        <label>Fiyat</label>
+        @Html.TextBoxFor(m => m.fiyat, new { @class = "form-control" })
+        <br />
+        <label>Tarih</label>
+        @Html.TextBoxFor(m => m.tarih, new { @class = "form-control" })
+        <br />
+        <label>Müşteri ID</label>
+        <div>
+            @Html.TextBoxFor(m => m.musteriID, new { @class = "form-control" })
+        </div>
+        <br />
+        <button class="btn btn-primary ">Satış Yap</button>
+
+
+    </div>
+</form>
+

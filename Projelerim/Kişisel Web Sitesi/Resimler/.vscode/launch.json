@@ -1,0 +1,55 @@
+{
+    "configurations": [
+    {
+        "name": "(Windows) Başlat",
+        "type": "cppvsdbg",
+        "request": "launch",
+        "program": "Program adını girin, örneğin: ${workspaceFolder}/a.exe",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${fileDirname}",
+        "environment": [],
+        "console": "externalTerminal"
+    }
+    ]
+    // Olası öznitelikler hakkında bilgi edinmek için IntelliSense kullanın.
+    // Mevcut özniteliklerin açıklamalarını görüntülemek için üzerine gelin.
+    // Daha fazla bilgi için şu adresi ziyaret edin: https://go.microsoft.com/fwlink/?linkid=830387
+  /*
+#include <stdio.h>
+#include <conio.h>
+#include <math.h>
+#include <ctime>
+#include <cstdl ib>
+#include "windows.h"
+*/
+#include <iostream>
+using namespace std;
+float ucgen_alan(float t,float y)
+{
+    float alan,
+    alan=(t*y)/2;
+    return alan;
+
+}
+int main()
+{
+    char flag='E';
+    do{
+        float taban;
+        float h;
+        cout<<"Ucgen alan hesap programı"<<endl;
+        cout<<"lutfen taban uzunlugunu gir!"<<endl;
+        cin>>taban;
+        cout<<"yukseklık (h) gir1"<<endl;
+        cin>>h;
+        cout<<"GİRDİGİNİZ UCGENIN ALANI="<<ucgen_alan(taban,h)<<endl;
+       cout<<"hesaplamaya devam etmek ıstıyon mu(E/H)"<<endl;
+       cin>>flag;
+    }
+    while(flag=='E');
+
+    system("PAUSE");
+    return 0;
+}
+}

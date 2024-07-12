@@ -1,0 +1,684 @@
+C:\Users\win10\source\repos\projee\projee\bin\projee.dll.config
+C:\Users\win10\source\repos\projee\projee\bin\projee.dll
+C:\Users\win10\source\repos\projee\projee\bin\projee.pdb
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\csc.exe
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\csc.exe.config
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\csc.rsp
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\csi.exe
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\csi.exe.config
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\csi.rsp
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.AppContext.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.Console.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.IO.Compression.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.Net.Http.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.Net.Sockets.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.ValueTuple.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.Xml.XPath.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\vbc.exe
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\vbc.exe.config
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\vbc.rsp
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\VBCSCompiler.exe
+C:\Users\win10\source\repos\projee\projee\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\win10\source\repos\projee\projee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\win10\source\repos\projee\projee\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win10\source\repos\projee\projee\bin\System.Web.Helpers.dll
+C:\Users\win10\source\repos\projee\projee\bin\System.Web.Mvc.dll
+C:\Users\win10\source\repos\projee\projee\bin\System.Web.Razor.dll
+C:\Users\win10\source\repos\projee\projee\bin\System.Web.Webpages.Deployment.dll
+C:\Users\win10\source\repos\projee\projee\bin\System.Web.Webpages.dll
+C:\Users\win10\source\repos\projee\projee\bin\System.Web.Webpages.Razor.dll
+C:\Users\win10\source\repos\projee\projee\bin\System.Web.Razor.xml
+C:\Users\win10\source\repos\projee\projee\bin\System.Web.Webpages.xml
+C:\Users\win10\source\repos\projee\projee\bin\System.Web.Webpages.Deployment.xml
+C:\Users\win10\source\repos\projee\projee\bin\System.Web.Webpages.Razor.xml
+C:\Users\win10\source\repos\projee\projee\bin\System.Web.Helpers.xml
+C:\Users\win10\source\repos\projee\projee\bin\System.Web.Mvc.xml
+C:\Users\win10\source\repos\projee\projee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\win10\source\repos\projee\projee\obj\Debug\projee.csproj.AssemblyReference.cache
+C:\Users\win10\source\repos\projee\projee\obj\Debug\projee.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\projee\projee\obj\Debug\projee.csproj.CopyComplete
+C:\Users\win10\source\repos\projee\projee\obj\Debug\projee.dll
+C:\Users\win10\source\repos\projee\projee\obj\Debug\projee.pdb
+C:\Users\win10\source\repos\projee\projee\bin\EntityFramework.dll
+C:\Users\win10\source\repos\projee\projee\bin\EntityFramework.SqlServer.dll
+C:\Users\win10\source\repos\projee\projee\bin\EntityFramework.xml
+C:\Users\win10\source\repos\projee\projee\bin\EntityFramework.SqlServer.xml
+C:\Users\win10\Desktop\projee\projee\bin\projee.dll.config
+C:\Users\win10\Desktop\projee\projee\bin\projee.dll
+C:\Users\win10\Desktop\projee\projee\bin\projee.pdb
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\csc.exe
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\csc.exe.config
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\csc.rsp
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\csi.exe
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\csi.exe.config
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\csi.rsp
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.AppContext.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.Console.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.IO.Compression.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.Net.Http.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.Net.Sockets.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.ValueTuple.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.Xml.XPath.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\vbc.exe
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\vbc.exe.config
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\vbc.rsp
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\VBCSCompiler.exe
+C:\Users\win10\Desktop\projee\projee\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\win10\Desktop\projee\projee\bin\EntityFramework.dll
+C:\Users\win10\Desktop\projee\projee\bin\EntityFramework.SqlServer.dll
+C:\Users\win10\Desktop\projee\projee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\win10\Desktop\projee\projee\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win10\Desktop\projee\projee\bin\System.Web.Helpers.dll
+C:\Users\win10\Desktop\projee\projee\bin\System.Web.Mvc.dll
+C:\Users\win10\Desktop\projee\projee\bin\System.Web.Razor.dll
+C:\Users\win10\Desktop\projee\projee\bin\System.Web.Webpages.Deployment.dll
+C:\Users\win10\Desktop\projee\projee\bin\System.Web.Webpages.dll
+C:\Users\win10\Desktop\projee\projee\bin\System.Web.Webpages.Razor.dll
+C:\Users\win10\Desktop\projee\projee\bin\EntityFramework.xml
+C:\Users\win10\Desktop\projee\projee\bin\EntityFramework.SqlServer.xml
+C:\Users\win10\Desktop\projee\projee\bin\System.Web.Razor.xml
+C:\Users\win10\Desktop\projee\projee\bin\System.Web.Webpages.xml
+C:\Users\win10\Desktop\projee\projee\bin\System.Web.Webpages.Deployment.xml
+C:\Users\win10\Desktop\projee\projee\bin\System.Web.Webpages.Razor.xml
+C:\Users\win10\Desktop\projee\projee\bin\System.Web.Helpers.xml
+C:\Users\win10\Desktop\projee\projee\bin\System.Web.Mvc.xml
+C:\Users\win10\Desktop\projee\projee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\win10\Desktop\projee\projee\obj\Debug\projee.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\projee\projee\obj\Debug\projee.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\projee\projee\obj\Debug\projee.csproj.CopyComplete
+C:\Users\win10\Desktop\projee\projee\obj\Debug\projee.dll
+C:\Users\win10\Desktop\projee\projee\obj\Debug\projee.pdb
+C:\Users\win10\Desktop\projee - Kopya\projee\obj\Debug\projee.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\projee - Kopya\projee\obj\Debug\projee.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\projee - Kopya\projee\obj\Debug\projee.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\obj\Debug\projee.pdb
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\projee.dll.config
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\projee.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\projee.pdb
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\csc.exe
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\csc.exe.config
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\csc.rsp
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\csi.exe
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\csi.exe.config
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\csi.rsp
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.AppContext.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.Console.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.IO.Compression.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.Net.Http.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.Net.Sockets.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.ValueTuple.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.Xml.XPath.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\vbc.exe
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\vbc.exe.config
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\vbc.rsp
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\VBCSCompiler.exe
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\EntityFramework.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\EntityFramework.SqlServer.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\System.Web.Helpers.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\System.Web.Mvc.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\System.Web.Razor.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\System.Web.Webpages.Deployment.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\System.Web.Webpages.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\System.Web.Webpages.Razor.dll
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\EntityFramework.xml
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\EntityFramework.SqlServer.xml
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\System.Web.Razor.xml
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\System.Web.Webpages.xml
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\System.Web.Webpages.Deployment.xml
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\System.Web.Webpages.Razor.xml
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\System.Web.Helpers.xml
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\System.Web.Mvc.xml
+C:\Users\win10\Desktop\projee - Kopya\projee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\win10\Desktop\projee - Kopya\projee\obj\Debug\projee.csproj.CopyComplete
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\projee.dll.config
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\projee.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\projee.pdb
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\csc.exe
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\csc.exe.config
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\csc.rsp
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\csi.exe
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\csi.exe.config
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\csi.rsp
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.AppContext.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Console.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.IO.Compression.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Net.Http.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.ValueTuple.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\vbc.exe
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\vbc.exe.config
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\vbc.rsp
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\VBCSCompiler.exe
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\EntityFramework.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\EntityFramework.SqlServer.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\System.Web.Helpers.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\System.Web.Mvc.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\System.Web.Razor.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\System.Web.Webpages.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\System.Web.Webpages.Razor.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\EntityFramework.xml
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\EntityFramework.SqlServer.xml
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\System.Web.Razor.xml
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\System.Web.Webpages.xml
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\System.Web.Webpages.Razor.xml
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\System.Web.Helpers.xml
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\System.Web.Mvc.xml
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\obj\Debug\projee.csproj.AssemblyReference.cache
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\obj\Debug\projee.csproj.CoreCompileInputs.cache
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\obj\Debug\projee.csproj.CopyComplete
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\obj\Debug\projee.dll
+C:\Users\ergun\Desktop\projee - Kopya\projee - Kopya\projee\obj\Debug\projee.pdb
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\projee.dll.config
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\projee.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\projee.pdb
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\csc.exe
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\csc.exe.config
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\csc.rsp
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\csi.exe
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\csi.exe.config
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\csi.rsp
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.AppContext.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Console.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.IO.Compression.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Net.Http.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.ValueTuple.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\vbc.exe
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\vbc.exe.config
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\vbc.rsp
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\VBCSCompiler.exe
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\EntityFramework.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\EntityFramework.SqlServer.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Helpers.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Mvc.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Razor.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Webpages.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Webpages.Razor.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\EntityFramework.xml
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\EntityFramework.SqlServer.xml
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Razor.xml
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Webpages.xml
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Webpages.Razor.xml
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Helpers.xml
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Mvc.xml
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\obj\Debug\projee.csproj.AssemblyReference.cache
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\obj\Debug\projee.csproj.CoreCompileInputs.cache
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\obj\Debug\projee.csproj.CopyComplete
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\obj\Debug\projee.dll
+C:\Users\ergun\Desktop\stajp\projee - Kopya\projee - Kopya\projee\obj\Debug\projee.pdb
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\projee.dll.config
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\projee.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\projee.pdb
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\csc.exe
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\csc.exe.config
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\csc.rsp
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\csi.exe
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\csi.exe.config
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\csi.rsp
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.AppContext.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Console.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.IO.Compression.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Net.Http.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.ValueTuple.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\vbc.exe
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\vbc.exe.config
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\vbc.rsp
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\VBCSCompiler.exe
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\EntityFramework.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\EntityFramework.SqlServer.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Helpers.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Mvc.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Razor.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Webpages.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Webpages.Razor.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\EntityFramework.xml
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\EntityFramework.SqlServer.xml
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Razor.xml
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Webpages.xml
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Webpages.Razor.xml
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Helpers.xml
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\System.Web.Mvc.xml
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\obj\Debug\projee.csproj.AssemblyReference.cache
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\obj\Debug\projee.csproj.CoreCompileInputs.cache
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\obj\Debug\projee.csproj.CopyComplete
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\obj\Debug\projee.dll
+C:\Users\ergun\Desktop\T\stajp\projee - Kopya\projee - Kopya\projee\obj\Debug\projee.pdb
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\projee.dll.config
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\projee.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\projee.pdb
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\csc.exe
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\csc.exe.config
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\csc.rsp
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\csi.exe
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\csi.exe.config
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\csi.rsp
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.AppContext.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.Console.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.IO.Compression.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.Net.Http.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.Net.Sockets.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.ValueTuple.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.Xml.XPath.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\vbc.exe
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\vbc.exe.config
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\vbc.rsp
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\VBCSCompiler.exe
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\EntityFramework.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\EntityFramework.SqlServer.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\System.Web.Helpers.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\System.Web.Mvc.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\System.Web.Razor.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\System.Web.Webpages.Deployment.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\System.Web.Webpages.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\System.Web.Webpages.Razor.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\EntityFramework.xml
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\EntityFramework.SqlServer.xml
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\System.Web.Razor.xml
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\System.Web.Webpages.xml
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\System.Web.Webpages.Deployment.xml
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\System.Web.Webpages.Razor.xml
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\System.Web.Helpers.xml
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\System.Web.Mvc.xml
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\obj\Debug\projee.csproj.AssemblyReference.cache
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\obj\Debug\projee.csproj.CoreCompileInputs.cache
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\obj\Debug\projee.csproj.CopyComplete
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\obj\Debug\projee.dll
+C:\Users\merve\OneDrive\Masaüstü\örnek\projee - Kopya\projee\obj\Debug\projee.pdb
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\projee.dll.config
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\projee.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\projee.pdb
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\csc.exe
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\csc.exe.config
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\csc.rsp
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\csi.exe
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\csi.exe.config
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\csi.rsp
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.AppContext.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.Console.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.IO.Compression.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.Net.Http.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.ValueTuple.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\vbc.exe
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\vbc.exe.config
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\vbc.rsp
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\VBCSCompiler.exe
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\EntityFramework.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\EntityFramework.SqlServer.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\System.Web.Helpers.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\System.Web.Mvc.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\System.Web.Razor.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\System.Web.Webpages.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\System.Web.Webpages.Razor.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\EntityFramework.xml
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\EntityFramework.SqlServer.xml
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\System.Web.Razor.xml
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\System.Web.Webpages.xml
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\System.Web.Webpages.Razor.xml
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\System.Web.Helpers.xml
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\System.Web.Mvc.xml
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\obj\Debug\projee.csproj.AssemblyReference.cache
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\obj\Debug\projee.csproj.CoreCompileInputs.cache
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\obj\Debug\projee.csproj.CopyComplete
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\obj\Debug\projee.dll
+C:\Users\ergun\Desktop\finalprojesi\projee - Kopya\projee\obj\Debug\projee.pdb
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\projee.dll.config
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\projee.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\projee.pdb
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\csc.exe
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\csc.exe.config
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\csc.rsp
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\csi.exe
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\csi.exe.config
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\csi.rsp
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.AppContext.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.Console.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.IO.Compression.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.Net.Http.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.ValueTuple.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\vbc.exe
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\vbc.exe.config
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\vbc.rsp
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\VBCSCompiler.exe
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\EntityFramework.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\EntityFramework.SqlServer.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\System.Web.Helpers.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\System.Web.Mvc.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\System.Web.Razor.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\System.Web.Webpages.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\System.Web.Webpages.Razor.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\EntityFramework.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\EntityFramework.SqlServer.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\System.Web.Razor.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\System.Web.Webpages.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\System.Web.Webpages.Razor.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\System.Web.Helpers.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\System.Web.Mvc.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\obj\Debug\projee.csproj.AssemblyReference.cache
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\obj\Debug\projee.csproj.CoreCompileInputs.cache
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\obj\Debug\projee.csproj.CopyComplete
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\obj\Debug\projee.dll
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\Project\proje1\projee\obj\Debug\projee.pdb

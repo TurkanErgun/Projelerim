@@ -1,0 +1,48 @@
+﻿@using projee.Models
+@model List<Hasta>
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<table class="table table-striped-columns">
+    <tr style="background-color:lightgrey;">
+
+        <th>Ad</th>
+        <th>soyad</th>
+        <th>TC</th>
+        <th>Cinsiyet</th>
+        <th>Yaş</th>
+        <th> tel</th>
+        <th>Adres</th>
+        <th>Kan Grup</th>
+        <th>Sil</th>
+        <th>Düzenle</th>
+
+    </tr>
+    <tbody>
+        @foreach (var hasta in Model)
+         {
+            <tr>
+
+                <td>@hasta.ad</td>
+                <td>@hasta.soyad</td>
+                <td>@hasta.tc</td>
+                <td>@hasta.cinsiyet</td>
+                <td>@hasta.yas</td>
+                <td>@hasta.tel</td>
+                <td>@hasta.adres</td>
+                <td>@hasta.kanGrup</td>
+                <td><a href="/hasta/Sil/@hasta.hastaID" class="btn btn-danger">Sil</a></td>
+                <td><a href="/hasta/HastaDüzelt/@hasta.hastaID" class="btn btn-info">Düzenle</a></td>
+            </tr>
+         }
+
+
+    </tbody>
+</table>
+<a href="/Hasta/YeniHasta" class="btn btn-dark">Hasta Ekle</a>
+
+
+
+

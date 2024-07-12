@@ -1,0 +1,45 @@
+﻿@using projee.Models
+@model List<Donor>
+@{
+    ViewBag.Title = "Index";
+}
+
+<table class="table table-striped-columns">
+    <tr style="background-color:lightgrey;">
+
+        <th>Ad</th>
+        <th>Soyad</th>
+        <th>TC</th>
+        <th>Cinsiyet</th>
+        <th>Yaş</th>
+        <th> Telefon</th>
+        <th>Adres</th>
+        <th>Kan Grup</th>
+        <th>Sil</th>
+        <th>Düzenle</th>
+
+    </tr>
+    <tbody>
+        @foreach (var donor in Model)
+        {
+            <tr>
+
+                <td>@donor.ad</td>
+                <td>@donor.soyad</td>
+                <td>@donor.tc</td>
+                <td>@donor.cinsiyet</td>
+                <td>@donor.yas</td>
+                <td>@donor.tel</td>
+                <td>@donor.adres</td>
+                <td>@donor.kanGrup</td>
+                <td><a href="/donor/Sil/@donor.donorID" class="btn btn-danger">Sil</a></td>
+                <td><a href="/donor/DonorDüzelt/@donor.donorID" class="btn btn-info">Düzenle</a></td>
+            </tr>
+        }
+
+
+    </tbody>
+</table>
+<a href="/Donor/YeniDonor" class="btn btn-dark">Donor Ekle</a>
+
+

@@ -1,0 +1,43 @@
+﻿@using projee.Models
+@model List<Kullanici>
+
+<table class="table table-striped-columns">
+    <tr>
+        
+        <th>Ad</th>
+        <th>Soyad</th>
+        <th>Telefon</th>
+        <th>Cinsiyet</th>
+        <th>Email</th>
+        <th>Adres</th>
+        <th>Yetki</th>
+        <th>Sil</th>
+        <th>Düzenle</th>
+
+
+    </tr>
+    <tbody>
+        @foreach (var kullanici in Model)
+        {
+            <tr>
+                
+                <td>@kullanici.ad</td>
+                <td>@kullanici.soyad</td>
+                <td>@kullanici.telefon</td>
+                <td>@kullanici.cinsiyet</td>
+                <td>@kullanici.email</td>
+                <td>@kullanici.adres</td>
+                <td>@kullanici.yetki</td>
+                <td><a href="/kullanici/Sil/@kullanici.kullaniciID" class="btn btn-danger">Sil</a></td>
+                <td><a href="/kullanici/KullaniciDüzelt/@kullanici.kullaniciID" class="btn btn-info">Düzenle</a></td>
+
+
+
+            </tr>
+        }
+
+
+    </tbody>
+</table>
+<a href="/Kullanici/YeniKullanici/" class="btn btn-dark">Kullanıcı Ekle</a>
+

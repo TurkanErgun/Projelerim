@@ -1,0 +1,21 @@
+﻿@using projee.Models
+@model Kategori
+@{
+    ViewBag.Title = "KategoriDüzelt";
+}
+@using (Html.BeginForm("Guncelle", "Kategori", FormMethod.Post)) //hareket olduğunda guncelle çalışcak guncelle ktgr içinde, biz bişet gönderdiğimizde çalışıcak post
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.kategoriID)
+        @Html.TextBoxFor(m => m.kategoriID, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.ad)
+        @Html.TextBoxFor(m => m.ad, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.aciklama)
+        @Html.TextBoxFor(m => m.aciklama, new { @class = "form-control" })
+    </div>
+    <div>
+       <button class="bs-tooltip-start">Düzenle</button>
+    </div>
+}

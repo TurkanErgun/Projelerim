@@ -1,0 +1,40 @@
+﻿@using projee.Models
+@model Kullanici
+
+@{
+    ViewBag.Title = "KullaniciDüzelt";
+}
+
+
+@using (Html.BeginForm("Guncelle", "Kullanici", FormMethod.Post))
+{
+    <div class="form-group">
+       
+        <br />
+        @Html.LabelFor(m => m.ad)
+        @Html.TextBoxFor(m => m.ad, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.soyad)
+        @Html.TextBoxFor(m => m.soyad, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.telefon)
+        @Html.TextBoxFor(m => m.telefon, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.cinsiyet)
+        @Html.TextBoxFor(m => m.cinsiyet, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.email)
+        @Html.TextBoxFor(m => m.email, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.adres)
+        @Html.TextBoxFor(m => m.adres, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.yetki)
+        @Html.TextBoxFor(m => m.yetki, new { @class = "form-control" })
+
+    </div>
+    <div>
+        <button class="bs-tooltip-start">Düzenle</button>
+    </div>
+}
+

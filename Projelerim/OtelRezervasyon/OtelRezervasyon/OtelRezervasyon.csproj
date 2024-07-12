@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E3710529-A49C-45DB-873F-BCDEB33104CF}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OtelRezervasyon</RootNamespace>
+    <AssemblyName>OtelRezervasyon</AssemblyName>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44394</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=2.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.2.0.1\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+    </Reference>
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.9\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=5.2.9.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.9\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.9\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.9\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.9\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.9\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.6.0\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\AnaSayfaController.cs" />
+    <Compile Include="Controllers\HakkimdaController.cs" />
+    <Compile Include="Controllers\HizmetlerController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\KayitController.cs" />
+    <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Controllers\MisafirController.cs" />
+    <Compile Include="Controllers\RezervasyonController.cs" />
+    <Compile Include="Controllers\YoneticiController.cs" />
+    <Compile Include="Controllers\YoneticiLoginController.cs" />
+    <Compile Include="Controllers\İletisimController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\OtelRezervasyonContext.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OtelRezervasyonContext.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\OtelRezervasyonContext.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OtelRezervasyonContext.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\OtelRezervasyonContext.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OtelRezervasyonContext.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\sysdiagrams.cs">
+      <DependentUpon>OtelRezervasyonContext.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\TblDepartman.cs">
+      <DependentUpon>OtelRezervasyonContext.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\TblDurum.cs">
+      <DependentUpon>OtelRezervasyonContext.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\TblGorev.cs">
+      <DependentUpon>OtelRezervasyonContext.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\TblHakkimda.cs">
+      <DependentUpon>OtelRezervasyonContext.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\TblMesaj.cs">
+      <DependentUpon>OtelRezervasyonContext.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\TblMesaj2.cs">
+      <DependentUpon>OtelRezervasyonContext.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\TblMisafir.cs">
+      <DependentUpon>OtelRezervasyonContext.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\TblOda.cs">
+      <DependentUpon>OtelRezervasyonContext.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\TblPersonel.cs">
+      <DependentUpon>OtelRezervasyonContext.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\TblRezervasyon.cs">
+      <DependentUpon>OtelRezervasyonContext.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\TblUlke.cs">
+      <DependentUpon>OtelRezervasyonContext.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\TblYeniKayit.cs">
+      <DependentUpon>OtelRezervasyonContext.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\Tblİletisim.cs">
+      <DependentUpon>OtelRezervasyonContext.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\bootstrap-grid.css" />
+    <Content Include="Content\bootstrap-grid.min.css" />
+    <Content Include="Content\bootstrap-grid.rtl.css" />
+    <Content Include="Content\bootstrap-grid.rtl.min.css" />
+    <Content Include="Content\bootstrap-reboot.css" />
+    <Content Include="Content\bootstrap-reboot.min.css" />
+    <Content Include="Content\bootstrap-reboot.rtl.css" />
+    <Content Include="Content\bootstrap-reboot.rtl.min.css" />
+    <Content Include="Content\bootstrap-utilities.css" />
+    <Content Include="Content\bootstrap-utilities.min.css" />
+    <Content Include="Content\bootstrap-utilities.rtl.css" />
+    <Content Include="Content\bootstrap-utilities.rtl.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\bootstrap.rtl.css" />
+    <Content Include="Content\bootstrap.rtl.min.css" />
+    <Content Include="favicon.ico" />
+    <Content Include="Global.asax" />
+    <Content Include="Content\Site.css" />
+    <Content Include="hotels-starter\about.html" />
+    <Content Include="hotels-starter\assets\css\style-starter.css" />
+    <Content Include="hotels-starter\assets\fonts\fontawesome-webfont.svg" />
+    <Content Include="hotels-starter\assets\images\about1.jpg" />
+    <Content Include="hotels-starter\assets\images\about2.jpg" />
+    <Content Include="hotels-starter\assets\images\about3.jpg" />
+    <Content Include="hotels-starter\assets\images\bg.jpg" />
+    <Content Include="hotels-starter\assets\images\bottom.jpg" />
+    <Content Include="hotels-starter\assets\images\calendar.png" />
+    <Content Include="hotels-starter\assets\images\down.png" />
+    <Content Include="hotels-starter\assets\images\facilities.jpg" />
+    <Content Include="hotels-starter\assets\images\hotels.png" />
+    <Content Include="hotels-starter\assets\images\logo1.jpg" />
+    <Content Include="hotels-starter\assets\images\logo2.jpg" />
+    <Content Include="hotels-starter\assets\images\logo3.jpg" />
+    <Content Include="hotels-starter\assets\images\logo4.jpg" />
+    <Content Include="hotels-starter\assets\images\room1.jpg" />
+    <Content Include="hotels-starter\assets\images\room2.jpg" />
+    <Content Include="hotels-starter\assets\images\room3.jpg" />
+    <Content Include="hotels-starter\assets\images\room4.jpg" />
+    <Content Include="hotels-starter\assets\images\room5.jpg" />
+    <Content Include="hotels-starter\assets\images\slide1.jpg" />
+    <Content Include="hotels-starter\assets\images\slide2.jpg" />
+    <Content Include="hotels-starter\assets\images\slide3.jpg" />
+    <Content Include="hotels-starter\assets\images\slide4.jpg" />
+    <Content Include="hotels-starter\assets\images\team1.jpg" />
+    <Content Include="hotels-starter\assets\images\team2.jpg" />
+    <Content Include="hotels-starter\assets\images\team3.jpg" />
+    <Content Include="hotels-starter\assets\images\team4.jpg" />
+    <Content Include="hotels-starter\assets\images\top.jpg" />
+    <Content Include="hotels-starter\assets\images\videobg.jpg" />
+    <Content Include="hotels-starter\assets\js\bootstrap.min.js" />
+    <Content Include="hotels-starter\assets\js\jquery-3.3.1.min.js" />
+    <Content Include="hotels-starter\assets\js\jquery.magnific-popup.min.js" />
+    <Content Include="hotels-starter\assets\js\owl.carousel.js" />
+    <Content Include="hotels-starter\contact.html" />
+    <Content Include="hotels-starter\index.html" />
+    <Content Include="hotels-starter\Login\css\style.css" />
+    <Content Include="hotels-starter\Login\images\banner.jpg" />
+    <Content Include="hotels-starter\Login\index.html" />
+    <Content Include="hotels-starter\Login\js\index.js" />
+    <Content Include="hotels-starter\Login\js\particles.min.js" />
+    <Content Include="hotels-starter\Login\w3layouts-License.txt" />
+    <Content Include="hotels-starter\Register\css\font-awesome.css" />
+    <Content Include="hotels-starter\Register\css\style.css" />
+    <Content Include="hotels-starter\Register\fonts\fontawesome-webfont.svg" />
+    <Content Include="hotels-starter\Register\images\bg6.jpg" />
+    <Content Include="hotels-starter\Register\images\tick.png" />
+    <Content Include="hotels-starter\Register\index.html" />
+    <Content Include="hotels-starter\Register\w3layouts-License.txt" />
+    <Content Include="hotels-starter\Rezervasyon\css\bootstrap.css" />
+    <Content Include="hotels-starter\Rezervasyon\css\jquery-ui.css" />
+    <Content Include="hotels-starter\Rezervasyon\css\style.css" />
+    <Content Include="hotels-starter\Rezervasyon\images\arrow.png" />
+    <Content Include="hotels-starter\Rezervasyon\images\date-icon.png" />
+    <Content Include="hotels-starter\Rezervasyon\images\terrace.jpg" />
+    <Content Include="hotels-starter\Rezervasyon\index.html" />
+    <Content Include="hotels-starter\Rezervasyon\js\easing.js" />
+    <Content Include="hotels-starter\Rezervasyon\js\jquery-ui.js" />
+    <Content Include="hotels-starter\Rezervasyon\js\jquery.flexslider.js" />
+    <Content Include="hotels-starter\Rezervasyon\js\jquery.min.js" />
+    <Content Include="hotels-starter\Rezervasyon\js\move-top.js" />
+    <Content Include="hotels-starter\Rezervasyon\w3layouts-License.txt" />
+    <Content Include="hotels-starter\services.html" />
+    <Content Include="hotels-starter\starter-license-W3Layouts.txt" />
+    <Content Include="hotels-starter\WebMisafirPanel\startbootstrap-sb-admin-gh-pages\401.html" />
+    <Content Include="hotels-starter\WebMisafirPanel\startbootstrap-sb-admin-gh-pages\404.html" />
+    <Content Include="hotels-starter\WebMisafirPanel\startbootstrap-sb-admin-gh-pages\500.html" />
+    <Content Include="hotels-starter\WebMisafirPanel\startbootstrap-sb-admin-gh-pages\assets\demo\chart-area-demo.js" />
+    <Content Include="hotels-starter\WebMisafirPanel\startbootstrap-sb-admin-gh-pages\assets\demo\chart-bar-demo.js" />
+    <Content Include="hotels-starter\WebMisafirPanel\startbootstrap-sb-admin-gh-pages\assets\demo\chart-pie-demo.js" />
+    <Content Include="hotels-starter\WebMisafirPanel\startbootstrap-sb-admin-gh-pages\assets\demo\datatables-demo.js" />
+    <Content Include="hotels-starter\WebMisafirPanel\startbootstrap-sb-admin-gh-pages\assets\img\error-404-monochrome.svg" />
+    <Content Include="hotels-starter\WebMisafirPanel\startbootstrap-sb-admin-gh-pages\charts.html" />
+    <Content Include="hotels-starter\WebMisafirPanel\startbootstrap-sb-admin-gh-pages\css\styles.css" />
+    <Content Include="hotels-starter\WebMisafirPanel\startbootstrap-sb-admin-gh-pages\index.html" />
+    <Content Include="hotels-starter\WebMisafirPanel\startbootstrap-sb-admin-gh-pages\js\datatables-simple-demo.js" />
+    <Content Include="hotels-starter\WebMisafirPanel\startbootstrap-sb-admin-gh-pages\js\scripts.js" />
+    <Content Include="hotels-starter\WebMisafirPanel\startbootstrap-sb-admin-gh-pages\layout-sidenav-light.html" />
+    <Content Include="hotels-starter\WebMisafirPanel\startbootstrap-sb-admin-gh-pages\layout-static.html" />
+    <Content Include="hotels-starter\WebMisafirPanel\startbootstrap-sb-admin-gh-pages\login.html" />
+    <Content Include="hotels-starter\WebMisafirPanel\startbootstrap-sb-admin-gh-pages\password.html" />
+    <Content Include="hotels-starter\WebMisafirPanel\startbootstrap-sb-admin-gh-pages\register.html" />
+    <Content Include="hotels-starter\WebMisafirPanel\startbootstrap-sb-admin-gh-pages\tables.html" />
+    <Content Include="Models\Entity\OtelRezervasyonContext.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>OtelRezervasyonContext.edmx</DependentUpon>
+      <LastGenOutput>OtelRezervasyonContext.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Models\Entity\OtelRezervasyonContext.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>OtelRezervasyonContext.edmx</DependentUpon>
+      <LastGenOutput>OtelRezervasyonContext.cs</LastGenOutput>
+    </Content>
+    <Content Include="Scripts\bootstrap.bundle.js" />
+    <Content Include="Scripts\bootstrap.bundle.min.js" />
+    <Content Include="Scripts\bootstrap.esm.js" />
+    <Content Include="Scripts\bootstrap.esm.min.js" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="hotels-starter\assets\fonts\fontawesome-webfont.eot" />
+    <Content Include="hotels-starter\assets\fonts\fontawesome-webfont.ttf" />
+    <Content Include="hotels-starter\assets\fonts\fontawesome-webfont.woff" />
+    <Content Include="hotels-starter\assets\fonts\fontawesome-webfont.woff2" />
+    <Content Include="hotels-starter\assets\fonts\FontAwesome.otf" />
+    <Content Include="hotels-starter\Register\fonts\fontawesome-webfont.eot" />
+    <Content Include="hotels-starter\Register\fonts\fontawesome-webfont.ttf" />
+    <Content Include="hotels-starter\Register\fonts\fontawesome-webfont.woff" />
+    <Content Include="hotels-starter\Register\fonts\fontawesome-webfont.woff2" />
+    <Content Include="hotels-starter\Register\fonts\FontAwesome.otf" />
+    <EntityDeploy Include="Models\Entity\OtelRezervasyonContext.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>OtelRezervasyonContext.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <Content Include="Models\Entity\OtelRezervasyonContext.edmx.diagram">
+      <DependentUpon>OtelRezervasyonContext.edmx</DependentUpon>
+    </Content>
+    <None Include="Scripts\jquery-3.4.1.intellisense.js" />
+    <Content Include="Scripts\jquery-3.4.1.js" />
+    <Content Include="Scripts\jquery-3.4.1.min.js" />
+    <Content Include="Scripts\jquery-3.4.1.slim.js" />
+    <Content Include="Scripts\jquery-3.4.1.slim.min.js" />
+    <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\Error.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\About.cshtml" />
+    <Content Include="Views\Home\Contact.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Shared\_OtelLayout.cshtml" />
+    <Content Include="Views\Shared\_OtelVitrin.cshtml" />
+    <Content Include="Views\Hakkimda\Hakkimda.cshtml" />
+    <Content Include="Views\Hakkimda\PartialFooter.cshtml" />
+    <Content Include="Views\Hakkimda\PartialSosyalMedya.cshtml" />
+    <Content Include="Views\Hizmetler\Hizmet.cshtml" />
+    <Content Include="Views\AnaSayfa\Index.cshtml" />
+    <Content Include="Views\İletisim\Index.cshtml" />
+    <Content Include="Views\Login\Index.cshtml" />
+    <Content Include="Views\Kayit\KayitOl.cshtml" />
+    <Content Include="Views\Rezervasyon\Index.cshtml" />
+    <Content Include="Views\İletisim\MesajGonder.cshtml" />
+    <Content Include="Views\Shared\_MisafirLayout.cshtml" />
+    <Content Include="Views\Misafir\Index.cshtml" />
+    <Content Include="Views\Misafir\Rezervasyonlarim.cshtml" />
+    <Content Include="Views\Misafir\GelenMesajlar.cshtml" />
+    <Content Include="Views\Misafir\GidenMesajlar.cshtml" />
+    <Content Include="Views\Misafir\MesajDetay.cshtml" />
+    <Content Include="Views\Misafir\YeniMesaj.cshtml" />
+    <Content Include="Views\Shared\_YoneticiLayout.cshtml" />
+    <Content Include="Views\YoneticiLogin\Index.cshtml" />
+    <Content Include="Views\Yonetici\Index.cshtml" />
+    <Content Include="Views\Yonetici\Rezervasyonlar.cshtml" />
+    <Content Include="Views\Yonetici\RezervasyonDetay.cshtml" />
+    <Content Include="Views\Yonetici\GelenMesajlar.cshtml" />
+    <Content Include="Views\Yonetici\GidenMesajlar.cshtml" />
+    <Content Include="Views\Yonetici\YeniMesaj.cshtml" />
+    <Content Include="Views\Yonetici\MesajDetay.cshtml" />
+    <Content Include="Views\Yonetici\Oda.cshtml" />
+    <Content Include="Views\Yonetici\OdaDetay.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\bootstrap.rtl.min.css.map" />
+    <Content Include="Content\bootstrap.rtl.css.map" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap-utilities.rtl.min.css.map" />
+    <Content Include="Content\bootstrap-utilities.rtl.css.map" />
+    <Content Include="Content\bootstrap-utilities.min.css.map" />
+    <Content Include="Content\bootstrap-utilities.css.map" />
+    <Content Include="Content\bootstrap-reboot.rtl.min.css.map" />
+    <Content Include="Content\bootstrap-reboot.rtl.css.map" />
+    <Content Include="Content\bootstrap-reboot.min.css.map" />
+    <Content Include="Content\bootstrap-reboot.css.map" />
+    <Content Include="Content\bootstrap-grid.rtl.min.css.map" />
+    <Content Include="Content\bootstrap-grid.rtl.css.map" />
+    <Content Include="Content\bootstrap-grid.min.css.map" />
+    <Content Include="Content\bootstrap-grid.css.map" />
+    <None Include="packages.config" />
+    <Content Include="Scripts\bootstrap.min.js.map" />
+    <Content Include="Scripts\bootstrap.js.map" />
+    <Content Include="Scripts\bootstrap.esm.min.js.map" />
+    <Content Include="Scripts\bootstrap.esm.js.map" />
+    <Content Include="Scripts\bootstrap.bundle.min.js.map" />
+    <Content Include="Scripts\bootstrap.bundle.js.map" />
+    <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.4.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>54289</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44394/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+</Project>

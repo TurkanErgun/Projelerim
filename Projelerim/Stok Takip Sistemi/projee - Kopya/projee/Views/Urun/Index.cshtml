@@ -1,0 +1,41 @@
+﻿@using projee.Models
+@model List<Urun>
+@{
+    ViewBag.Title = "Index";
+}
+
+<table class="table table-striped-columns">
+    <tr>
+       
+        <th>Ad</th>
+        <th>Marka</th>
+        <th>Fiyat</th>
+        <th>Stok</th>
+        <th>Popüler</th>
+        <th>Kategori Ad</th>
+        <th>Sil</th>
+        <th>Düzenle</th>
+
+    </tr>
+    <tbody>
+        @foreach (var urun in Model)
+        {
+            <tr>
+             
+                <td>@urun.ad</td>
+                <td>@urun.marka</td>
+                <td>@urun.fiyat</td>
+                <td>@urun.stok</td>
+                <td>@urun.populer</td>
+                <td>@urun.Kategori.ad</td>
+                <td><a href="/urun/Sil/@urun.urunID" class="btn btn-danger">Sil</a></td>
+                <td><a href="/urun/ÜrünDüzelt/@urun.urunID" class="btn btn-info">Düzenle</a></td>
+            </tr>
+        }
+
+
+    </tbody>
+</table>
+<a href="/Urun/YeniÜrün" class="btn btn-dark">Ürün Ekle</a>
+
+

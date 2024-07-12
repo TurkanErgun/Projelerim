@@ -1,0 +1,38 @@
+﻿@model OtelRezervasyon.Models.Entity.TblRezervasyon
+
+@{
+    ViewBag.Title = "RezervasyonDetay";
+    Layout = "~/Views/Shared/_YoneticiLayout.cshtml";
+}
+<br />
+<h2>Rezervasyon Detay</h2>
+<br />
+@using (Html.BeginForm("RezervasyonGuncelle", "Yonetici", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.HiddenFor(x => x.RezervasyonID, new { @class = "form-control" })@*hiddenfor ıd gizliyor*@
+        <br />
+        @Html.Label("Rezervasyon Ad Soyad")
+        @Html.TextBoxFor(x => x.RezervasyonAdSoyad, new { @class = "form-control" })
+        <br />
+        <label>Telefon</label>
+        @Html.TextBoxFor(x => x.Telefon, new { @class = "form-control" })
+        <br />
+        @Html.Label("Açıklama")
+        @Html.TextBoxFor(x => x.Aciklama, new { @class = "form-control" })
+        <br />
+        @Html.Label("Giris Tarih")
+        @Html.TextBoxFor(x => x.GirisTarih, new { @class = "form-control" })
+        <br />
+        @Html.Label("Çıkış Tarih")
+        @Html.TextBoxFor(x => x.CikisTarih, new { @class = "form-control" })
+        <br />
+        @Html.Label("Kişi")
+        @Html.TextBoxFor(x => x.Kisi, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(x => x.Oda)
+        @Html.DropDownListFor(x => x.TblOda.OdaID, (List<SelectListItem>)ViewBag.oda, new { @class = "form-control" })
+        <br />
+        <button class="btn btn-warning">Bilgileri Güncelle</button>
+    </div>
+}

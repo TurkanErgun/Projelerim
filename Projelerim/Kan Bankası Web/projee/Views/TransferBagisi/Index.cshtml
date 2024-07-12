@@ -1,0 +1,48 @@
+﻿@using projee.Models
+@model TransferBagis
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+<form method="post" action="/TransferBagisi/YeniBagisi">
+    <div class="modal-body">
+        <div>
+            <label>Ad</label>
+            @Html.TextBoxFor(m => m.ad, new { @class = "form-control" })
+        </div>
+        <br />
+        <label>Soyad</label>
+        @Html.TextBoxFor(m => m.soyad, new { @class = "form-control" })
+        <br />
+        <label>TC</label>
+        @Html.TextBoxFor(m => m.tc, new { @class = "form-control" })
+        <br />
+        <label>Cinsiyet</label>
+        @Html.TextBoxFor(m => m.cinsiyet, new { @class = "form-control" })
+        <br />
+        <label>Adet</label>
+        @Html.TextBoxFor(m => m.adet, new { @class = "form-control" })
+        <br />
+        <label>Kan Grup</label>
+        @Html.TextBoxFor(m => m.kanGrup, new { @class = "form-control" })
+        <br />
+        <label>Hasta ID</label>
+        <div>
+            @Html.TextBoxFor(m => m.hastaID, new { @class = "form-control" })
+        </div>
+        <br />
+        <label>Transfer ID</label>
+        <div>
+            @Html.TextBoxFor(m => m.transferID, new { @class = "form-control" })
+        </div>
+        <br />
+        <button class="btn btn-primary ">Transfer Yap</button>
+
+
+    </div>
+</form>
+
+
+

@@ -1,0 +1,30 @@
+﻿@using projee.Models
+@model List<Urun>
+@{
+    ViewBag.Title = "KritikStok";
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>Ürün Bilgisi</th>@*tablo başlığı*@
+        <th>Stok</th>
+    </tr> @*Tablo satırı*@
+    @foreach (var Urun in Model)
+    {
+        if (Urun.stok < 100)
+        {
+            <tr style="background-color:red">
+                <td>@Urun.ad</td>@*Sütündaki veriyi tablo verisi*@
+                <td>@Urun.stok</td>
+            </tr>
+        }
+        if (Urun.stok == 100)
+        {
+            <tr style="background-color:orchid">
+                <td>@Urun.ad</td>
+                <td>@Urun.stok</td>
+            </tr>
+        }
+    }
+</table>
+

@@ -1,0 +1,360 @@
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\KanBankası.exe.config
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\KanBankası.exe
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\KanBankası.pdb
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\Newtonsoft.Json.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\RestSharp.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.Buffers.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.CodeDom.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.Data.Odbc.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.Data.OleDb.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.Data.SqlClient.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.Drawing.Common.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.IO.Packaging.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.IO.Ports.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.Memory.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.Security.AccessControl.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.Security.Permissions.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.AssemblyReference.cache
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.SuggestedBindingRedirects.cache
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.exe.config
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.AnaSayfa.resources
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.Donor.resources
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.DonorListesics.resources
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.Form1.resources
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.Hasta.resources
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.Login.resources
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.Properties.Resources.resources
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.GenerateResource.cache
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.CoreCompileInputs.cache
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.Fody.CopyLocal.cache
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.CopyComplete
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.exe
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.pdb
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.HastaListe.resources
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.KanStogu.resources
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.KanTransferics.resources
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.KontrolPaneli.resources
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.exe.licenses
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.KanBagısı.resources
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.Calisan.resources
+C:\Users\merve\OneDrive\Masaüstü\KanBankası\KanBankası\obj\Debug\KanBankası.AdminLogin.resources
+D:\KanBankası\KanBankası\bin\Debug\KanBankası.exe.config
+D:\KanBankası\KanBankası\bin\Debug\KanBankası.exe
+D:\KanBankası\KanBankası\bin\Debug\KanBankası.pdb
+D:\KanBankası\KanBankası\bin\Debug\Bunifu.UI.WinForms.xml
+D:\KanBankası\KanBankası\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\KanBankası\KanBankası\bin\Debug\Microsoft.Win32.Registry.xml
+D:\KanBankası\KanBankası\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\KanBankası\KanBankası\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\KanBankası\KanBankası\bin\Debug\Newtonsoft.Json.xml
+D:\KanBankası\KanBankası\bin\Debug\RestSharp.xml
+D:\KanBankası\KanBankası\bin\Debug\System.Buffers.xml
+D:\KanBankası\KanBankası\bin\Debug\System.CodeDom.xml
+D:\KanBankası\KanBankası\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\KanBankası\KanBankası\bin\Debug\System.Data.Odbc.xml
+D:\KanBankası\KanBankası\bin\Debug\System.Data.OleDb.xml
+D:\KanBankası\KanBankası\bin\Debug\System.Data.SqlClient.xml
+D:\KanBankası\KanBankası\bin\Debug\System.Diagnostics.EventLog.xml
+D:\KanBankası\KanBankası\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\KanBankası\KanBankası\bin\Debug\System.Drawing.Common.xml
+D:\KanBankası\KanBankası\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\KanBankası\KanBankası\bin\Debug\System.IO.Packaging.xml
+D:\KanBankası\KanBankası\bin\Debug\System.IO.Ports.xml
+D:\KanBankası\KanBankası\bin\Debug\System.Memory.xml
+D:\KanBankası\KanBankası\bin\Debug\System.Numerics.Vectors.xml
+D:\KanBankası\KanBankası\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\KanBankası\KanBankası\bin\Debug\System.Security.AccessControl.xml
+D:\KanBankası\KanBankası\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\KanBankası\KanBankası\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\KanBankası\KanBankası\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\KanBankası\KanBankası\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\KanBankası\KanBankası\bin\Debug\System.Security.Permissions.xml
+D:\KanBankası\KanBankası\bin\Debug\System.Security.Principal.Windows.xml
+D:\KanBankası\KanBankası\bin\Debug\System.ServiceModel.Syndication.xml
+D:\KanBankası\KanBankası\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\KanBankası\KanBankası\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\KanBankası\KanBankası\bin\Debug\System.Threading.AccessControl.xml
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.AssemblyReference.cache
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.SuggestedBindingRedirects.cache
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.exe.config
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.AdminLogin.resources
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.AnaSayfa.resources
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.Calisan.resources
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.Donor.resources
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.DonorListesics.resources
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.Form1.resources
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.Hasta.resources
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.HastaListe.resources
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.KanBagısı.resources
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.KanStogu.resources
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.KanTransferics.resources
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.KontrolPaneli.resources
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.Login.resources
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.Properties.Resources.resources
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.GenerateResource.cache
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.exe.licenses
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.CoreCompileInputs.cache
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.Fody.CopyLocal.cache
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.CopyComplete
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.exe
+D:\KanBankası\KanBankası\obj\Debug\KanBankası.pdb
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\KanBankası.exe.config
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\KanBankası.exe
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\KanBankası.pdb
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\RestSharp.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.Buffers.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.CodeDom.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.Data.Odbc.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.Data.OleDb.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.Drawing.Common.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.IO.Packaging.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.IO.Ports.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.Memory.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.Security.Permissions.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.AssemblyReference.cache
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.SuggestedBindingRedirects.cache
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.exe.config
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.AdminLogin.resources
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.AnaSayfa.resources
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.Calisan.resources
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.Donor.resources
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.DonorListesics.resources
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.Form1.resources
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.Hasta.resources
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.HastaListe.resources
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.KanBagısı.resources
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.KanStogu.resources
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.KanTransferics.resources
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.KontrolPaneli.resources
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.Login.resources
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.Properties.Resources.resources
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.GenerateResource.cache
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.exe.licenses
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.CoreCompileInputs.cache
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.Fody.CopyLocal.cache
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.CopyComplete
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.exe
+C:\Users\ergun\Desktop\KanBankası\KanBankası\obj\Debug\KanBankası.pdb
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\KanBankası.exe.config
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\KanBankası.exe
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\KanBankası.pdb
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\RestSharp.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.Buffers.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.CodeDom.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.Data.Odbc.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.Data.OleDb.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.Drawing.Common.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.IO.Packaging.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.IO.Ports.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.Memory.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.Security.Permissions.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.AssemblyReference.cache
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.SuggestedBindingRedirects.cache
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.exe.config
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.AdminLogin.resources
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.AnaSayfa.resources
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.Calisan.resources
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.Donor.resources
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.DonorListesics.resources
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.Form1.resources
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.Hasta.resources
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.HastaListe.resources
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.KanBagısı.resources
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.KanStogu.resources
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.KanTransferics.resources
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.KontrolPaneli.resources
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.Login.resources
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.Properties.Resources.resources
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.GenerateResource.cache
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.exe.licenses
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.CoreCompileInputs.cache
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.Fody.CopyLocal.cache
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.csproj.CopyComplete
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.exe
+C:\Users\ergun\Desktop\T\KanBankası\KanBankası\obj\Debug\KanBankası.pdb
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\KanBankası.exe.config
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\KanBankası.exe
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\KanBankası.pdb
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\RestSharp.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Buffers.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.CodeDom.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Data.Odbc.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Data.OleDb.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Drawing.Common.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.IO.Packaging.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.IO.Ports.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Memory.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Security.Permissions.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.csproj.AssemblyReference.cache
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.csproj.SuggestedBindingRedirects.cache
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.exe.config
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.AdminLogin.resources
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.AnaSayfa.resources
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.Calisan.resources
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.Donor.resources
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.DonorListesics.resources
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.Form1.resources
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.Hasta.resources
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.HastaListe.resources
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.KanBagısı.resources
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.KanStogu.resources
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.KanTransferics.resources
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.KontrolPaneli.resources
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.Login.resources
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.Properties.Resources.resources
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.csproj.GenerateResource.cache
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.exe.licenses
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.csproj.CoreCompileInputs.cache
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.csproj.Fody.CopyLocal.cache
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.csproj.CopyComplete
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.exe
+C:\Users\ergun\Desktop\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.pdb
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\KanBankası.exe.config
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\KanBankası.exe
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\KanBankası.pdb
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\RestSharp.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Buffers.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.CodeDom.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Data.Odbc.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Data.OleDb.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Drawing.Common.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.IO.Packaging.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.IO.Ports.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Memory.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Security.Permissions.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.csproj.AssemblyReference.cache
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.csproj.SuggestedBindingRedirects.cache
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.exe.config
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.AdminLogin.resources
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.AnaSayfa.resources
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.Calisan.resources
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.Donor.resources
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.DonorListesics.resources
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.Form1.resources
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.Hasta.resources
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.HastaListe.resources
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.KanBagısı.resources
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.KanStogu.resources
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.KanTransferics.resources
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.KontrolPaneli.resources
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.Login.resources
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.Properties.Resources.resources
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.csproj.GenerateResource.cache
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.exe.licenses
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.csproj.CoreCompileInputs.cache
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.csproj.Fody.CopyLocal.cache
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.csproj.CopyComplete
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.exe
+C:\Users\ergun\Desktop\T\221501037 Merve Nur Çalhan\221501037 Merve Nur Çalhan\Project\Proje 2 Form\KanBankası\obj\Debug\KanBankası.pdb

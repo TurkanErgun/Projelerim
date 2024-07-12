@@ -1,0 +1,47 @@
+﻿@using projee.Models
+@model Hasta
+
+@{
+    ViewBag.Title = "HastaDüzelt";
+}
+
+@using (Html.BeginForm("Guncelle", "Hasta", FormMethod.Post))
+{
+    <div class="form-group">
+        <br />
+        @Html.LabelFor(m => m.ad)
+        @Html.TextBoxFor(m => m.ad, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.soyad)
+        @Html.TextBoxFor(m => m.soyad, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.tc)
+        @Html.TextBoxFor(m => m.tc, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.cinsiyet)
+        @Html.TextBoxFor(m => m.cinsiyet, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.yas)
+        @Html.TextBoxFor(m => m.yas, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.tel)
+        @Html.TextBoxFor(m => m.tel, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.adres)
+        @Html.TextBoxFor(m => m.adres, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.kanGrup)
+        @Html.TextBoxFor(m => m.kanGrup, new { @class = "form-control" })
+        <br />
+
+    </div>
+
+    <div>
+        <button class="bs-tooltip-start">Hasta Düzenle</button>
+    </div>
+
+}
+
+
+
+

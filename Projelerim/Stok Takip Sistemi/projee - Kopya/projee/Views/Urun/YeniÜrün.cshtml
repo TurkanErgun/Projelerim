@@ -1,0 +1,42 @@
+﻿@using projee.Models
+@model Urun
+@{
+    ViewBag.Title = "YeniÜrün";
+}
+
+
+<form class="form-group" method="post">
+    <div>
+        <label>Ürün Adı</label>
+        <input type="text" class="form-control" name="ad" />
+    </div>
+    <div>
+        <label>Marka</label>
+        <input type="text" class="form-control" name="marka" />
+    </div>
+    <div>
+        <label>Fiyat</label>
+        <input type="text" class="form-control" name="fiyat" />
+    </div>
+    <div>
+        <label>Stok</label>
+        <input type="text" class="form-control" name="stok" />
+    </div>
+    <div>
+        <label>Popüler</label>
+        <input type="text" class="form-control" name="populer" />
+    </div>
+    <div>
+        <label>Kategori Seç</label>
+        @Html.DropDownListFor(m => m.Kategori.kategoriID, (List<SelectListItem>)ViewBag.urun, new { @class = "form-control" })
+
+    </div>
+    <br />
+    <div>
+        <button class="bs-tooltip-start">Ürün Ekle</button>
+    </div>
+
+</form>
+
+
+

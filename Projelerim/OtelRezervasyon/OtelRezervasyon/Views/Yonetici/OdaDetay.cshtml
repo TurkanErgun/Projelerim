@@ -1,0 +1,39 @@
+﻿@model OtelRezervasyon.Models.Entity.TblOda
+
+@{
+    ViewBag.Title = "OdaDetay";
+    Layout = "~/Views/Shared/_YoneticiLayout.cshtml";
+}
+
+<h2>OdaDetay</h2>
+
+<br />
+@using (Html.BeginForm("OdaGuncelle", "Yonetici", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.HiddenFor(x => x.OdaID, new { @class = "form-control" })@*hiddenfor ıd gizliyor*@
+        <br />
+        @Html.Label("Oda No")
+        @Html.TextBoxFor(x => x.OdaNo, new { @class = "form-control" })
+        <br />
+        @Html.Label("Kat")
+        @Html.TextBoxFor(x => x.Kat, new { @class = "form-control" })
+        <br />
+        @Html.Label("Kapasite")
+        @Html.TextBoxFor(x => x.Kapasite, new { @class = "form-control" })
+        <br />
+        @Html.Label("Açıklama")
+        @Html.TextBoxFor(x => x.Aciklama, new { @class = "form-control" })
+        <br />
+        @Html.Label("Telefon")
+        @Html.TextBoxFor(x => x.Telefon, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(x => x.Durum)
+        @Html.DropDownListFor(x => x.TblDurum.DurumID, (List<SelectListItem>)ViewBag.Durumlar, new { @class = "form-control" })
+
+        <br />
+
+    </div>
+    <div><button class="btn btn-warning">Bilgileri Güncelle</button></div>
+    
+ }

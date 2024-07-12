@@ -1,0 +1,39 @@
+﻿@using projee.Models
+@model Urun
+@{
+    ViewBag.Title = "ÜrünDüzelt";
+}
+
+@using (Html.BeginForm("Guncelle", "Urun", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.urunID)
+        @Html.TextBoxFor(m => m.urunID, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.ad)
+        @Html.TextBoxFor(m => m.ad, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.marka)
+        @Html.TextBoxFor(m => m.marka, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.fiyat)
+        @Html.TextBoxFor(m => m.fiyat, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.stok)
+        @Html.TextBoxFor(m => m.stok, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.populer)
+        @Html.TextBoxFor(m => m.populer, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.kategoriID)
+        @Html.DropDownListFor(m => m.Kategori.kategoriID, (List<SelectListItem>)ViewBag.urun, new { @class = "form-control" })
+      
+
+
+    </div>
+    <div>
+        <button class="bs-tooltip-start">Düzenle</button>
+    </div>
+}
+
+

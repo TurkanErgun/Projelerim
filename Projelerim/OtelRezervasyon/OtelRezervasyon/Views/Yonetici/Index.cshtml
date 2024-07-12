@@ -1,0 +1,34 @@
+﻿@model OtelRezervasyon.Models.Entity.TblPersonel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_YoneticiLayout.cshtml";
+}
+<br />
+<h2>Profil Sayfası</h2>
+@using (Html.BeginForm("YoneticiBilgiGuncelle", "Yonetici", FormMethod.Post))
+ {
+    <div class="form-group">
+        @Html.HiddenFor(x => x.PersonelID, new { @class = "form-control" })@*hiddenfor ıd gizliyor*@
+        <br />
+        <label>Ad Soyad</label>
+        @Html.TextBoxFor(x => x.AdSoyad, new { @class = "form-control" })
+        <br />
+        @Html.Label("Telefon")
+        @Html.TextBoxFor(x => x.Telefon, new { @class = "form-control" })
+        <br />
+        @Html.Label("TC")
+        @Html.TextBoxFor(x => x.TC, new { @class = "form-control" })
+        <br />
+        @Html.Label("Adres")
+        @Html.TextBoxFor(x => x.Adres, new { @class = "form-control" })
+        <br />
+        @Html.Label("Email")
+        @Html.TextBoxFor(x => x.Email, new { @class = "form-control" })
+        <br />
+        <button class="btn btn-warning">Bilgileri Güncelle</button>
+
+
+    </div>
+ }
+
+

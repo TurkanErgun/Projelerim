@@ -1,0 +1,30 @@
+﻿@using projee.Models
+@model List<Kategori>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table class="table table-striped-columns">
+    <tr>
+        <th>Ad</th>
+        <th>Açıklama</th>
+        <th>Sil</th>
+        <th>Düzenle</th>
+
+
+    </tr>
+    <tbody>
+        @foreach (var kategori in Model)
+         {
+            <tr>
+                <td>@kategori.ad</td>
+                <td>@kategori.aciklama</td>
+                <td><a href="/kategori/Sil/@kategori.kategoriID"class="btn btn-danger">Sil</a></td>
+                <td><a href="/kategori/KategoriDüzelt/@kategori.kategoriID"class="btn btn-info">Düzenle</a></td>
+            </tr>
+         }
+    </tbody>
+</table>
+<a href="/Kategori/YeniKategori/" class="btn btn-dark">Kategori Ekle</a>
+
